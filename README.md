@@ -24,8 +24,8 @@ Al cerrar la ventana, su estado actual (posición, tamaño y color) se guardará
 Guardado del estado
 Cuando la aplicación se cierra, guarda el estado actual de la ventana en un archivo llamado config.properties ubicado en:
 
-Copiar código
 ~/.VentanaConMemoria/config.properties
+
 Los siguientes valores se guardan:
 
 size.width: Ancho de la ventana.
