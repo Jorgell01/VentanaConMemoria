@@ -1,4 +1,4 @@
-VentanaConMemoria
+# VentanaConMemoria
 VentanaConMemoria es una aplicación JavaFX que guarda y recupera el estado de una ventana entre ejecuciones. La aplicación guarda la posición (x, y), el tamaño (ancho y alto) y el color de fondo (valores RGB) de la ventana en un archivo de configuración. Estos valores se cargan al iniciar la aplicación, permitiendo que la ventana retenga el estado que tenía al cerrarse la última vez.
 
 Características
